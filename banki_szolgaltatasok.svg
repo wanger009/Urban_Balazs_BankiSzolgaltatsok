@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="62cm" height="26cm" viewBox="143 -33 1221 504" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="158.544" y="-31.0146" width="202.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="158.544" y="-31.0146" width="202.5" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="259.794" y="-15.8146">&lt;&lt;final&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="259.794" y="4.9854">Tulajdonos</text>
+    <rect style="fill: #ffffff" x="158.544" y="12.9854" width="202.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="158.544" y="12.9854" width="202.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="161.544" y="26.1854">-nev: String</text>
+    <rect style="fill: #ffffff" x="158.544" y="32.9854" width="202.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="158.544" y="32.9854" width="202.5" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="161.544" y="46.1854">+Tulajdonos(nev:String)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="161.544" y="62.1854">+getNev(): String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="161.544" y="78.1854">+setNev(nev:String): void</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="481.986" y="-14.1835" width="325.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="481.986" y="-14.1835" width="325.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="644.836" y="5.81646">BankiSzolgaltatas</text>
+    <rect style="fill: #ffffff" x="481.986" y="13.8165" width="325.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="481.986" y="13.8165" width="325.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="484.986" y="27.0165">-tulajdonos: Tulajdonos</text>
+    <rect style="fill: #ffffff" x="481.986" y="33.8165" width="325.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="481.986" y="33.8165" width="325.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="484.986" y="47.0165">+BankiSzolgaltatas(tulajdonos:Tulajdonos)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="484.986" y="63.0165">+getTulajdonos(): Tulajdonos</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="343.89" y="123.588" width="287.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="343.89" y="123.588" width="287.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="487.49" y="143.588">Szamla</text>
+    <rect style="fill: #ffffff" x="343.89" y="151.588" width="287.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="343.89" y="151.588" width="287.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="346.89" y="164.788">#aktualisEgyenleg: int</text>
+    <rect style="fill: #ffffff" x="343.89" y="171.588" width="287.2" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="343.89" y="171.588" width="287.2" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="346.89" y="184.788">+Szamla(tulajdonos:Tulajdonos)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="346.89" y="200.788">+getAktualisEgyenleg(): int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="346.89" y="216.788">+befizet(osszeg:int): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="346.89" y="232.788">+kivesz(osszeg:int): boolean</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="346.89" y="248.788">+ujKartya(kartyaszam:String): Kartya</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="144.369" y="318.378" width="395" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.369" y="318.378" width="395" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="341.869" y="338.378">HitelSzamla</text>
+    <rect style="fill: #ffffff" x="144.369" y="346.378" width="395" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.369" y="346.378" width="395" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.369" y="359.578">-hitelKeret: int</text>
+    <rect style="fill: #ffffff" x="144.369" y="366.378" width="395" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.369" y="366.378" width="395" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.369" y="379.578">+HitelSzamla(tulajdonos:Tulajdonos,hitelKeret:int)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.369" y="395.578">+getHitelKeret(): int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.369" y="411.578">+kivesz(osszeg:int): boolean</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="612.43" y="322.232" width="341.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="612.43" y="322.232" width="341.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="782.98" y="342.232">MegtakaritasiSzamla</text>
+    <rect style="fill: #ffffff" x="612.43" y="350.232" width="341.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="612.43" y="350.232" width="341.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="615.43" y="363.432">-kamat: double</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="615.43" y="379.432">+alapKamat: double</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="615.43" y1="385.832" x2="754.03" y2="385.832"/>
+    <rect style="fill: #ffffff" x="612.43" y="386.232" width="341.1" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="612.43" y="386.232" width="341.1" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="615.43" y="399.432">+MegtakaritasiSzamla(tulajdonos:Tulajdonos)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="615.43" y="415.432">+getKamat(): double</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="615.43" y="431.432">+setKamat(kamat:double): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="615.43" y="447.432">+kivesz(osszeg:int): boolean</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="615.43" y="463.432">+kamatJovairas(): void</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.49,274.832 487.49,294.984 341.869,294.984 341.869,317.372 "/>
+    <polygon style="fill: #ffffff" points="495.49,274.832 487.49,258.832 479.49,274.832 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.49,274.832 487.49,258.832 479.49,274.832 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="644.836,89.0578 644.836,104.701 487.49,104.701 487.49,122.579 "/>
+    <polygon style="fill: #ffffff" points="652.836,89.0578 644.836,73.0578 636.836,89.0578 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="652.836,89.0578 644.836,73.0578 636.836,89.0578 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.49,274.832 487.49,296.909 782.98,296.909 782.98,321.223 "/>
+    <polygon style="fill: #ffffff" points="495.49,274.832 487.49,258.832 479.49,274.832 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.49,274.832 487.49,258.832 479.49,274.832 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="676.396" y="154.252" width="487.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="676.396" y="154.252" width="487.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="920.096" y="174.252">Kartya</text>
+    <rect style="fill: #ffffff" x="676.396" y="182.252" width="487.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="676.396" y="182.252" width="487.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="679.396" y="195.452">-szamla: Szamla</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="679.396" y="211.452">-kartyaSzam: String</text>
+    <rect style="fill: #ffffff" x="676.396" y="218.252" width="487.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="676.396" y="218.252" width="487.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="679.396" y="231.452">+Kartya(tulajdonos:Tulajdonos,szamla:Szamla,kartyaSzam:String)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="679.396" y="247.452">+getKartyaSzam(): String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="679.396" y="263.452">+vasarlas(osszeg:int): boolean</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="644.836,89.0578 644.836,120.033 920.096,120.033 920.096,153.245 "/>
+    <polygon style="fill: #ffffff" points="652.836,89.0578 644.836,73.0578 636.836,89.0578 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="652.836,89.0578 644.836,73.0578 636.836,89.0578 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="890.798" y="-27.8486" width="472" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="890.798" y="-27.8486" width="472" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1126.8" y="-7.8486">Bank</text>
+    <rect style="fill: #ffffff" x="890.798" y="0.1514" width="472" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="890.798" y="0.1514" width="472" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.798" y="13.3514">-szamlaLista: List&lt;Szamla&gt;</text>
+    <rect style="fill: #ffffff" x="890.798" y="20.1514" width="472" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="890.798" y="20.1514" width="472" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.798" y="33.3514">+Bank()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.798" y="49.3514">+szamlaNyitas(tulajdonos:Tulajdonos,hitelKeret:int): Szamla</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.798" y="65.3514">+getOsszEgyenleg(tulajdonos:Tulajdonos): int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.798" y="81.3514">+getLegnagyobbEgyenleguSzamla(tulajdonos:Tulajdonos): Szamla</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.798" y="97.3514">+getOsszHitelkeret(): long</text>
+  </g>
+</svg>
